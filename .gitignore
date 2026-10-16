@@ -1,0 +1,33 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# env & secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+deploy/deploy.local.env
+**/credentials*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# build / cache
+dist/
+.cache/
+__pycache__/
+*.pyc
+.vercel
+.netlify
+
+# logs
+*.log
+npm-debug.log*

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zitoglobal.com/sitemap.xml
