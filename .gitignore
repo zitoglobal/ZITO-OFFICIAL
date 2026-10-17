@@ -31,3 +31,6 @@ __pycache__/
 # logs
 *.log
 npm-debug.log*
+
+# local screenshots
+_preview/

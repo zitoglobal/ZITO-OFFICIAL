@@ -1,0 +1,14 @@
+{
+  "name": "ZITO Global",
+  "short_name": "ZITO",
+  "description": "Style design, fabric development and manufacturing",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1F3A",
+  "theme_color": "#0B1F3A",
+  "icons": [
+    { "src": "/assets/brand/favicon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/assets/brand/favicon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/assets/brand/zito-icon.png", "sizes": "1024x1024", "type": "image/png" }
+  ]
+}
